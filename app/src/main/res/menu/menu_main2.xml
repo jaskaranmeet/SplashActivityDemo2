@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/desc"
+        android:title="Show Description" />
+
+
+    <item
+        android:id="@+id/confirm"
+        android:title="Confirm" />
+    <item
+        android:id="@+id/decline"
+        android:title="Decline" />
+</menu>
